@@ -1,4 +1,4 @@
-module github.com/tsaikd/golasticdump
+module github.com/habitualdev/golasticdump
 
 go 1.13
 
